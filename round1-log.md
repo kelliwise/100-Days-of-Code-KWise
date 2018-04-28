@@ -20,3 +20,16 @@ Day 3: April 26, 2018
 
 Today's Plan: finalize the home page layout and grid css.
 
+Today's Progress: customizing the customizer functions for the home page.
+
+Day 4: April 27, 2018
+
+Today's Plan: learn how to add background images to home page widgets in the customizer
+
+Today's progess: worked on a way to do all of this in css rather than as a background image.
+
+Day 4: April 28, 2018
+
+Today's Plan: css grid for the homepage with fallbacks
+
+Today's progess: 
