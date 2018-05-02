@@ -50,5 +50,13 @@ Today's Plan: Finish home page widgets, footer widgets, and site-header area exc
 
 Today's Plan: Finish home page widgets, footer widgets, and site-header area except menu
 
-**Today's progress:** 
+**Today's progress:** learned how to set logo height/width and proportion. Also how to use php to change css when logo size is greater than a fixed amount. 
+
+// Place menu below logo and center logo once it gets big.
+	$css .= ( has_custom_logo() && ( 200 <= $logo_max_width ) ) ?
+	
+Created a custom search form for my theme. Replaced "Search" with an icon. This is done with code in the functions file and with css. 
+
+Added a widget area below the main nav for the search form and custom navigation.
+
 
