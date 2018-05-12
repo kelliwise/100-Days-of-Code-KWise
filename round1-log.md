@@ -59,4 +59,52 @@ Created a custom search form for my theme. Replaced "Search" with an icon. This 
 
 Added a widget area below the main nav for the search form and custom navigation.
 
+### Day 9: May 6, 2018
+
+Today's Plan: Start a them using underscores
+
+**Today's progress:** Added widget areas for header widgets, footer widgets and home page widgets
+
+### Day 10: May 7, 2018
+
+Today's Plan: Start a them using underscores
+
+**Today's progress:** Added footer widget areas assigning css class dynamically. Removed background and header images from the customizer. 
+
+Added the social media widget area but it's not inheriting the plugin's styling. Or maybe it's the plugin. Who knows.
+
+### Day 11: May 8, 2018
+
+Today's Plan: Finish up the header, footer, and structural elements
+
+**Today's progress:** Customized the search form. That took all stinking morning, but I finally figured out what I was doing wrong with the dashicon. 
+
+### Day 12: May 9, 2018
+
+Today's Plan: Home page layout
+
+**Today's progress:** Home page layout is done. Header styling in process. 
+
+### Day 13: May 10, 2018
+
+Today's Plan: Structural items
+
+**Today's progress:** Corrections to html structure of widgets. Done in widgets.php file. Footer widgets gridified. Sat with designer to get colors, fonts, and graphics needed. Discussed navigation needs.
+
+### Day 14: May 11, 2018
+
+Today's Plan: Home page layout gridified
+
+**Today's progress:** 
+
+1 - completed about half of Javascript lessons on FreeCodeCamp. 
+
+2 - changed colors of header elements
+
+3 - Changed the copyright & site info
+
+4 - Edited the flexbox style for the social widget area
+
+
+
 
