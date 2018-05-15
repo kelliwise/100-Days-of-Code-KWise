@@ -105,6 +105,31 @@ Today's Plan: Home page layout gridified
 
 4 - Edited the flexbox style for the social widget area
 
+### Day 15: May 14, 2018
+
+Today's Plan: sticky header
+
+**Today's progress:** 
+
+Worked on trying to figure out how to get the header to be sticky and resize the logo on scroll
+
+Created a development site and uploaded the theme. Also created the placeholder widgets for the home page and menues.
+
+### Day 16: May 15, 2018
+
+Today's Plan: Sticky Header
+
+**Today's progress:** 
+
+1 - Finally figured out how to get the header sticky and logo to resize. Also figured out why the logo wasn't resizing when the page scrolled back to the top. 
+
+2 - Created and enqueued the javascript for sticky header. Surprisingly little javascript required.
+
+3 - completed several more javascript lessons on Free code camp
+
+4 - added grid for homepage sections
+
+
 
 
 
